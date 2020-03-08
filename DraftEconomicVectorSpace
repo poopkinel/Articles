@@ -1,0 +1,13 @@
+We use the predefined R set and H set [TODO: add the definitions to former chapters]
+
+let r1, r2 be members of R.
+Define r1 (+) r2 to be the union of r1 and r2 (r1 and r2 are both sets for the same reason an apple consists of the stem, the seeds and the "flesh" of the apple).
+let c be a real number,
+We can see that c*(r1 + r2) = c*r1 + c*r2 (e.g: if you have 2 oranges, and I have 2 peaches, putting them together is the same as having an orange and a peach - twice.
+Easy to see r1 (+) r2 = r2 (+) r1
+We can define [a completely theoretical] /eta which is the "empty resource" -
+  /eta + r = r ; for every r in R.
+  
+Define r1 (x) r2 to be the composition of r1 and r1 (e.g: r1 = 2 wheels, r2 = a bycicle shassy => r1 (x) r2 = a bycicle (the wheels connected to the shassy)
+
+We have an Abelian Group, closed under (+), commutative (with multiplication) and a unit. Thus, a vector space.
